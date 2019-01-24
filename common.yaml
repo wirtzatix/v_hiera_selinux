@@ -1,0 +1,4 @@
+---
+classes:
+- v_profile_selinux::selinux
+...
